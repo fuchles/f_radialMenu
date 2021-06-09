@@ -1,4 +1,6 @@
-	
+--vec3 library by fuchles
+
+
 	vec3 = {}
 	
 	function vec3.getDistance(vec, vec1)
