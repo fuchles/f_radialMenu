@@ -1,0 +1,13 @@
+<meta>
+	<script src="radialMenu_c.lua" type="client" cache="false" />
+	<script src="vec3.lua" type="shared" cache="false" />
+	<script src="ui/ui_dottedCircle_c.lua" type="client" cache="false"/>
+	<script src="ui/ui_circle_c.lua" type="client" cache="false"/>
+	<script src="ui/ui_textures_c.lua" type="client" cache="false"/>
+	
+	<file src="textures/alonepen.png" type="client" />
+	<file src="textures/brush.png" type="client" />
+	<file src="textures/pen.png" type="client" />
+	<file src="textures/scissors.png" type="client" />
+	<file src="textures/tools.png" type="client" />
+</meta>
